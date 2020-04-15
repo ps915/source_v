@@ -34,8 +34,8 @@ The frame is donated to the community to empower creators and makers, and integr
 Please use the tag "sourcev" when uploading files to thingiverse.com
 
 ## Where to buy
-* [www.team-blacksheep.com](https://www.team-blacksheep.com/products/prod:source_v)
-* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
+* [www.team-blacksheep.com](https://www.team-blacksheep.com/products/prod:source_v) / [arm upgrade](https://www.team-blacksheep.com/products/prod:source_v_arms)
+* open [issue]("https://github.com/ps915/source_v/issues/new) if you want your shop added
 
 
 ## Where to buy 3D printed parts
@@ -44,7 +44,6 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 ## Changelog
 ### SOURCE V V1
-
 * initial release from TBS
 
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p1.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p2.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p3.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p4.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p5.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p6.jpg" width="350">
@@ -52,7 +51,6 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 Arm Upgrade
 
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p1.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p2.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p3.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p4.jpg" width="350">
-
 
 
 ## Project license
