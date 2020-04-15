@@ -13,16 +13,14 @@ The frame is donated to the community to empower creators and makers, and integr
 * Wheelbase 5": 218mm
 * Top Plate: 2mm
 * Bottom Plate: 2mm
-* Standoff height: M3x25mm
-* Arm thickness 5": 2x5mm
+* Standoff height: M3x30mm
+* Arm thickness 5": 2x12mm
 * Stack Mounting: 30.5 × 30.5mm & 20 x 20
 * Weight 5": 63g
 
 ## Hardware
-* 1x Carbon Plates Set
-* 4x Standoffs 
-* 1x Screws Set 
-* 1x TBS Camera Mount Set
+* 4x Standoffs M3x30mm
+* 24x M3x14mm
 
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_v1_p3.jpg" width="800">
 
