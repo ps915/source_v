@@ -34,6 +34,8 @@ Please use the tag "sourcev" when uploading files to thingiverse.com
 ## Where to buy
 * [www.team-blacksheep.com](https://www.team-blacksheep.com/products/prod:source_v) / [arm upgrade](https://www.team-blacksheep.com/products/prod:source_v_arms)
 * [www.shop.brickracing.com](https://shop.brickracing.com/TBS-Source-V-drone-frame)
+* [shop.fpv.ee](https://shop.fpv.ee/tbs-source-v-frame.html)
+
 * open [issue]("https://github.com/ps915/source_v/issues/new) if you want your shop added
 
 
