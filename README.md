@@ -52,6 +52,12 @@ Arm Upgrade
 
 <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p1.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p2.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p3.jpg" width="350"> <img src="https://github.com/ps915/source_v/blob/master/photos/source_v_arm_upgrade_v1_p4.jpg" width="350">
 
+25.5x25.5 Baseplate
+* Baseplate for Whoop-size boards added in whoopsize/ directory
+
+<img src="https://github.com/FieserKiller/source_v/blob/master/photos/source_v_whoop_base.png" width="350">
+
+
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
